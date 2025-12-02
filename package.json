@@ -1,0 +1,12 @@
+{
+  "name": "aoc25",
+  "version": "1.0.0",
+  "scripts": {
+    "day": "tsx src/runner.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.1",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
